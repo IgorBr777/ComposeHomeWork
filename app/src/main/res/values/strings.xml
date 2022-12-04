@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ComposeHomeWork</string>
+    <string name="title_activity_home_login">HomeLoginActivity</string>
+    <string name="login_app">LOGIN APP</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="SING_UP">SING UP</string>
+    <string name="WELCOME_HOME">WELCOME HOME</string>
 </resources>
